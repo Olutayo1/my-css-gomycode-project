@@ -1,0 +1,77 @@
+body{
+    font-family: "Roboto"; 
+}
+/* navbar */
+#header{
+    height: 70px;
+    background-color: rgb(214, 210, 210);
+
+}
+.navbar{
+    display: flex;
+    justify-content: space-evenly;
+}
+.home{
+    position: absolute; left: 20px;
+}
+/* about */
+#about{
+    
+    background-color:whitesmoke
+}
+.image{
+    position: relative;
+    left: 200px;
+
+}
+.introMain{
+    
+    position: relative; left: 200px;
+}
+#skills{
+    height: 700px;
+    background-color: antiquewhite;
+    
+}
+.MySkill{
+    position: relative;
+    left: 200px;
+    
+}
+.contentRoll{
+    position:relative;left: 200px; 
+    
+}
+.video{
+    margin-top: 100px;
+    display:inline-flex;
+    position: relative;left: 200px;
+    border-radius: 70px;
+}
+.skillRoll{
+    position:relative;left: 200px; 
+
+}
+.writingIntro{
+    position:relative;left: 200px; 
+ 
+}
+.writingRoll{
+    position:relative;left: 200px; 
+   
+}
+/*work*/
+#work{
+    position:relative;left: 200px; 
+
+}
+#footer{
+
+    
+    background-color: rgb(214, 210, 210);
+   
+}
+.contactMe{
+    position:relative;left: 200px; 
+  
+}
